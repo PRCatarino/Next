@@ -5,7 +5,7 @@ import { formatPrice } from '@/data/products';
 import { IconX, IconTrash, IconWhatsApp } from './icons';
 import ProductImage from './ProductImage';
 
-const WA_NUMBER = '5521970051099';
+const WA_NUMBER = '5521979861621';
 
 export default function CartPanel() {
   const { state, dispatch } = useCart();

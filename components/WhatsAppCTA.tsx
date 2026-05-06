@@ -1,6 +1,6 @@
 import { IconWhatsApp } from './icons';
 
-const WA_NUMBER = '5521970051099';
+const WA_NUMBER = '5521979861621';
 
 export default function WhatsAppCTA() {
   return (
